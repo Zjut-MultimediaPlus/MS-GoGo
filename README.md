@@ -8,7 +8,16 @@ IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023, Art
 [[click to download LSCIDMR-V2]](https://pan.baidu.com/s/1QUNNjWp_sKiFXE5cuZvc4w?pwd=9999)
 
 fetch code: ```9999```
-
+## Environment Prepare ##
+#### pytorch version ####
+```
+torchvision version: torchvision-0.11.0%2Bcu111-cp38-cp38-linux_x86_64.whl
+torch version: torch-1.10.0%2Bcu111-cp38-cp38-linux_x86_64.whl
+```
+#### other dependencies ####
+```
+pip install requirements.txt
+```
 ## inference model ##
 1. dowload trained model
 [[click to download trained model]](https://pan.baidu.com/s/1H_HQQZuKGk8ZXug3zVRKxA?pwd=9999)
