@@ -11,7 +11,7 @@ fetch code: ```9999```
 
 ## inference model ##
 1. dowload trained model
-[[click to download trained model]](https://pan.baidu.com/s/1QUNNjWp_sKiFXE5cuZvc4w?pwd=9999)
+[[click to download trained model]](https://pan.baidu.com/s/1H_HQQZuKGk8ZXug3zVRKxA?pwd=9999)
 
     fetch code: ```9999```
 2. move the downloaded folder```/final_model``` into ```/MS_GoGo/results```
