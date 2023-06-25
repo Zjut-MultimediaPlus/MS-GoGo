@@ -1,8 +1,7 @@
 **Mine Diversified Contents of Multispectral Cloud Images Along With Geographical Information for Multilabel Classification**<br/>
 Dongxiaoyuan Zhao; Qiong Wang; Jinglin Zhang; Cong Bai<br/>
-IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023, Art no. 4102415, doi: 10.1109/TGRS.2023.3270204.<br/>
-[[paper]](https://ieeexplore.ieee.org/document/10108005)
-<br/>
+IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023, Art no. 4102415, doi: 10.1109/TGRS.2023.3270204. [[paper link]](https://ieeexplore.ieee.org/document/10108005) <br/>
+
 ![](assets/framework_10.png)
 ## download data ##
 [[click to download LSCIDMR-V2]](https://pan.baidu.com/s/1QUNNjWp_sKiFXE5cuZvc4w?pwd=9999)
