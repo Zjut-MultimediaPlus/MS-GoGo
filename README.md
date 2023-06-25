@@ -5,16 +5,16 @@ IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023, Art
 <br/>
 ![](assets/framework_10.png)
 ## download data ##
-[[click to download LSCIDMR-V2]]()
+[[click to download LSCIDMR-V2]](https://pan.baidu.com/s/1QUNNjWp_sKiFXE5cuZvc4w?pwd=9999)
 
-fetch code: 
+fetch code: ```9999```
 
 ## inference model ##
 1. dowload trained model
-[[click to download model parameters]](https://ieeexplore.ieee.org/document/10108005)
+[[click to download trained model]](https://pan.baidu.com/s/1QUNNjWp_sKiFXE5cuZvc4w?pwd=9999)
 
-    fetch code:
-2. move the downloaded folder into ```/MS_GoGo/results```
+    fetch code: ```9999```
+2. move the downloaded folder```/final_model``` into ```/MS_GoGo/results```
 3. run inference
     ```
     python main.py --dataset=LSCIDMR_16c\
